@@ -1,0 +1,15 @@
+/Users/beytullah/Projects/uyg2/uyg2/bin/Debug/net7.0/uyg2
+/Users/beytullah/Projects/uyg2/uyg2/bin/Debug/net7.0/uyg2.deps.json
+/Users/beytullah/Projects/uyg2/uyg2/bin/Debug/net7.0/uyg2.runtimeconfig.json
+/Users/beytullah/Projects/uyg2/uyg2/bin/Debug/net7.0/uyg2.dll
+/Users/beytullah/Projects/uyg2/uyg2/bin/Debug/net7.0/uyg2.pdb
+/Users/beytullah/Projects/uyg2/uyg2/obj/Debug/net7.0/uyg2.csproj.AssemblyReference.cache
+/Users/beytullah/Projects/uyg2/uyg2/obj/Debug/net7.0/uyg2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/beytullah/Projects/uyg2/uyg2/obj/Debug/net7.0/uyg2.AssemblyInfoInputs.cache
+/Users/beytullah/Projects/uyg2/uyg2/obj/Debug/net7.0/uyg2.AssemblyInfo.cs
+/Users/beytullah/Projects/uyg2/uyg2/obj/Debug/net7.0/uyg2.csproj.CoreCompileInputs.cache
+/Users/beytullah/Projects/uyg2/uyg2/obj/Debug/net7.0/uyg2.dll
+/Users/beytullah/Projects/uyg2/uyg2/obj/Debug/net7.0/refint/uyg2.dll
+/Users/beytullah/Projects/uyg2/uyg2/obj/Debug/net7.0/uyg2.pdb
+/Users/beytullah/Projects/uyg2/uyg2/obj/Debug/net7.0/uyg2.genruntimeconfig.cache
+/Users/beytullah/Projects/uyg2/uyg2/obj/Debug/net7.0/ref/uyg2.dll
